@@ -1,0 +1,305 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Vivo X60 Pro",
+      "price": "10000",
+      "rating": 3.5,
+      "specification": [
+        "48 megapixels Front Camera",
+        "4gb RAM",
+        "128gb ROM",
+        "Qualcomm Snapdragon 820"
+      ],
+      "features": [
+        "Accelerometer",
+        "Voice dialing",
+        "Voice commands"
+      ],
+      "description": "Morbi porttitor lorem id ligula. Morbi porttitor lorem id ligula. Morbi porttitor lorem id ligula. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+      "imageUrl": "https://www.91-img.com/gallery_images_uploads/b/d/bd496ceb04c57d43922b9d23efaca53940d01db4.jpeg?tr=h-550,w-0,c-at_max",
+      "availableColors": [
+        "blue",
+        "black"
+      ],
+      "group": "mobiles"
+    },
+    {
+      "id": 9,
+      "name": "JBL",
+      "price": "2400",
+      "rating": 5,
+      "specification": [
+        "Cancels noise",
+        "30 hours of flight"
+      ],
+      "features": [
+        "wireless headphones",
+        "Voice dialing",
+        "Voice commands"
+      ],
+      "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+      "imageUrl": "https://www.91-img.com/pictures/mobile-accessories/jbl/jbl-tune-770nc-158210-large-1.jpg?tr=q-80",
+      "availableColors": [
+        "pink",
+        "black"
+      ],
+      "group": "Headphones"
+    },
+    {
+      "id": 2,
+      "name": "Galaxy S20 FE",
+      "price": "15000",
+      "rating": 5,
+      "specification": [
+        "48 megapixels Front Camera",
+        "4gb RAM",
+        "128gb ROM",
+        "Qualcomm Snapdragon 820"
+      ],
+      "features": [
+        "Accelerometer",
+        "Voice dialing",
+        "Voice commands"
+      ],
+      "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+      "imageUrl": "https://www.91-img.com/gallery_images_uploads/5/1/51cf173b22c986edd8c85c3596eed4926ca357c3.jpg?tr=h-550,w-0,c-at_max",
+      "availableColors": [
+        "gold",
+        "black",
+        "silver"
+      ],
+      "group": "Mobiles"
+    },
+    {
+      "id": 10,
+      "name": "Amazfit Smart",
+      "price": "2400",
+      "rating": 4,
+      "specification": [
+        "SpO2 Level Measurement",
+        "14 Days' Battery Life",
+        "70+ Sports Modes"
+      ],
+      "features": [
+        "Built-in GPS",
+        "Built-in Amazon Alexa",
+        "Heart Rate"
+      ],
+      "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+      "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/618MEYCaUQL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "availableColors": [
+        "brown",
+        "black"
+      ],
+      "group": "Watches"
+    },
+    {
+      "id": 3,
+      "name": "Oppo Reno 20",
+      "price": "30000",
+      "rating": 3,
+      "specification": [
+        "48 megapixels Front Camera",
+        "4gb RAM",
+        "128gb ROM",
+        "Qualcomm Snapdragon 820"
+      ],
+      "features": [
+        "Accelerometer",
+        "Voice dialing",
+        "Voice commands"
+      ],
+      "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+      "imageUrl": "https://www.91-img.com/gallery_images_uploads/9/3/937e4ca0de910cd78090a2dfb48af4cd0ae1f9e6.jpg?tr=h-550,w-0,c-at_max",
+      "availableColors": [
+        "red",
+        "silver",
+        "gold",
+        "black"
+      ],
+      "group": "Mobiles"
+    },
+    {
+      "id": 11,
+      "name": "Versa 2",
+      "price": "23400",
+      "rating": 4,
+      "specification": [
+        "SpO2 Level Measurement",
+        "14 Days' Battery Life",
+        "70+ Sports Modes"
+      ],
+      "features": [
+        "Built-in GPS",
+        "Built-in Amazon Alexa",
+        "Heart Rate"
+      ],
+      "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+      "imageUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1574375658-31mcmc5f35L.jpg?crop=1xw:1.00xh;center,top&resize=768:*",
+      "availableColors": [
+        "brown",
+        "black"
+      ],
+      "group": "Watches"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus Nord",
+      "price": "25000",
+      "rating": 4,
+      "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+      "imageUrl": "https://www.91-img.com/gallery_images_uploads/9/b/9b4e4355cfaed163763984e41f2b2c6bfd5d4f81.JPG?tr=h-550,w-0,c-at_max",
+      "availableColors": [
+        "brown",
+        "black"
+      ],
+      "group": "Mobiles"
+    },
+    {
+      "id": 5,
+      "name": "Realme 8 max",
+      "price": "35000",
+      "rating": 3,
+      "specification": [
+        "48 megapixels Front Camera",
+        "4gb RAM",
+        "128gb ROM",
+        "Qualcomm Snapdragon 820"
+      ],
+      "features": [
+        "Accelerometer",
+        "Voice dialing",
+        "Voice commands"
+      ],
+      "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+      "imageUrl": "https://www.91-img.com/gallery_images_uploads/5/1/51cf173b22c986edd8c85c3596eed4926ca357c3.jpg?tr=h-550,w-0,c-at_max",
+      "availableColors": [
+        "brown",
+        "black",
+        "gold"
+      ],
+      "group": "Mobiles"
+    },
+    {
+      "id": 6,
+      "name": "OnePlus Nord",
+      "price": "25000",
+      "rating": 4,
+      "specification": [
+        "48 megapixels Front Camera",
+        "4gb RAM",
+        "128gb ROM",
+        "Qualcomm Snapdragon 820"
+      ],
+      "features": [
+        "Accelerometer",
+        "Voice dialing",
+        "Voice commands"
+      ],
+      "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+      "imageUrl": "https://www.91-img.com/gallery_images_uploads/9/b/9b4e4355cfaed163763984e41f2b2c6bfd5d4f81.JPG?tr=h-550,w-0,c-at_max",
+      "availableColors": [
+        "brown",
+        "black"
+      ],
+      "group": "Mobiles"
+    },
+    {
+      "id": 7,
+      "name": "Samsung M20",
+      "price": "23400",
+      "rating": 4,
+      "specification": [
+        "48 megapixels Front Camera",
+        "4gb RAM",
+        "128gb ROM",
+        "Qualcomm Snapdragon 820"
+      ],
+      "features": [
+        "Accelerometer",
+        "Voice dialing",
+        "Voice commands"
+      ],
+      "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+      "imageUrl": "https://www.91-img.com/gallery_images_uploads/b/d/bd496ceb04c57d43922b9d23efaca53940d01db4.jpeg?tr=h-550,w-0,c-at_max",
+      "availableColors": [
+        "brown",
+        "black"
+      ],
+      "group": "Mobiles"
+    },
+    {
+      "id": 8,
+      "name": "PX7 high sound",
+      "price": "3400",
+      "rating": 4,
+      "specification": [
+        "Cancels noise",
+        "30 hours of flight"
+      ],
+      "features": [
+        "wireless headphones",
+        "Voice dialing",
+        "Voice commands"
+      ],
+      "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+      "imageUrl": "https://www.bowerswilkins.com/sites/default/files/2019-09/Low--PX7%20Front%20Angle%20-%20Space%20Grey.jpg",
+      "availableColors": [
+        "black",
+        "blue"
+      ],
+      "group": "Headphones"
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 9,
+        "name": "JBL",
+        "price": "2400",
+        "rating": 5,
+        "specification": [
+          "Cancels noise",
+          "30 hours of flight"
+        ],
+        "features": [
+          "wireless headphones",
+          "Voice dialing",
+          "Voice commands"
+        ],
+        "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+        "imageUrl": "https://www.91-img.com/pictures/mobile-accessories/jbl/jbl-tune-770nc-158210-large-1.jpg?tr=q-80",
+        "availableColors": [
+          "pink",
+          "black"
+        ],
+        "group": "Headphones"
+      },
+      "userId": 1,
+      "id": 1
+    }
+  ],
+  "login": [
+    {
+      "username": "rac@gmail.com",
+      "password": "rac",
+      "id": 1
+    },
+    {
+      "username": "rai@gmail.com",
+      "password": "rai",
+      "id": 2
+    },
+    {
+      "username": "sul@gmail.com",
+      "password": "sul",
+      "id": 3
+    },
+    {
+      "username": "ayu@gmail.com",
+      "password": "ayu",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+<div class="container my-3">
+    <div class="row">
+        <div class="col-md-6">
+            <input class="form-control mr-sm-2  border-primary" type="search" placeholder="Search" aria-label="Search" [(ngModel)]="searchTerm">
+            <br>
+            <div *ngIf="filteredProduct">
+                <div *ngIf="filteredProduct.length === 0" class="alert alert-danger">No result found.</div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <select class="form-select border-primary text-primary w-100 p-2 rounded" (change)="filterByCategory()" [(ngModel)]="filter">
+                <option [ngValue]="undefined" selected disabled>Get product by category</option>
+                <option value="noFilter">No Filter</option>
+                <option value="mobiles">Mobiles</option>
+                <option value="headphones">Headphones</option>
+                <option value="watches">Watches</option>
+            </select>
+        </div>
+    </div>
+    <div class="row my-4">
+        <div class="col-md-12 ">
+            <div class="row">
+                <div class="col-md-3" *ngFor="let product of filteredProduct">
+                    <app-product-item [product]="product"></app-product-item>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
